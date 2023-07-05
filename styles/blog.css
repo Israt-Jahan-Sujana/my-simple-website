@@ -1,0 +1,10 @@
+div{
+    background-color: cyan;
+    width: 50%;
+    border: 5px;
+    border-color: blue;
+    margin: 20px;
+    border-style: dashed;
+    padding: 20px;
+    text-align: justify;
+}
